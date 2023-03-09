@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eff294d9-86db-42e9-906b-d93b01303454" name="localhost" url="http://patient.book">
+        <fileTransfer mountedRoot="C:\Server\data\htdocs\patientbook" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
